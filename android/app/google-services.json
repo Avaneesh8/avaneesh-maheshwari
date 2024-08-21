@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264409321359",
+    "project_id": "avaneesh-maheshwari",
+    "storage_bucket": "avaneesh-maheshwari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264409321359:android:4332aeb0743b1d04d145fa",
+        "android_client_info": {
+          "package_name": "com.mycompany.avaneeshmaheshwari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASJADxucae4EA0mkl4gGNf0FnSgdGqWe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
